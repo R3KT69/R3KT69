@@ -5,11 +5,11 @@ Hello! 👋 I'm r3kt, a passionate developer diving into the world of game devel
 ## Expertise
 
 - ![C++](https://img.shields.io/badge/C/C++-Expert-purple)
-  *I have solid experience in C++ programming, including application development and game programming.*
+- *I have solid experience in C++ programming, including application development and game programming.*
 - ![SDL2](https://img.shields.io/badge/SDL2-Advanced-blue)
-  *I'm proficient in using the SDL2 library for creating interactive and multimedia applications.*
+- *I'm proficient in using the SDL2 library for creating interactive and multimedia applications.*
 - ![UE5](https://img.shields.io/badge/UE5-Learning-orange)
-  *Currently, I'm expanding my skills by learning Unreal Engine 5, exploring its capabilities for creating immersive games and applications.*
+- *Currently, I'm expanding my skills by learning Unreal Engine 5, exploring its capabilities for creating immersive games and applications.*
 
 ## Projects
 
