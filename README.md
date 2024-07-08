@@ -1,16 +1,20 @@
-## Hi there 👋
+# About Me
 
-<!--
-**R3KT69/R3KT69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! 👋 I'm r3kt, a passionate developer diving into the world of game development and software engineering.
 
-Here are some ideas to get you started:
+## Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **C++**: I have solid experience in C++ programming, including application development and game programming.
+- **SDL2 Library**: I'm proficient in using the SDL2 library for creating interactive and multimedia applications.
+- **Learning Unreal Engine 5**: Currently, I'm expanding my skills by learning Unreal Engine 5, exploring its capabilities for creating immersive games and applications.
+
+## Projects
+
+- **SDL2 Projects**: I enjoy creating projects with SDL2, focusing on game development and interactive applications.
+- **Unreal Engine Exploration**: I'm actively experimenting with Unreal Engine 5 to understand its powerful features and workflows.
+
+## Interests
+
+Apart from coding, I'm interested in gaming, technology trends, and exploring new tools and frameworks to enhance my development skills.
+
+Feel free to connect with me and explore my projects!
