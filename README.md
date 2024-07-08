@@ -2,7 +2,7 @@
 
 Hello! 👋 I'm r3kt, a passionate developer diving into the world of game development and software engineering.
 
-## Expertise ![Badge](https://img.shields.io/badge/Expertise-Message-Color)
+![Badge](https://img.shields.io/badge/Expertise-Color)
 
 - **C++**: I have solid experience in C++ programming, including application development and game programming.
 - **SDL2 Library**: I'm proficient in using the SDL2 library for creating interactive and multimedia applications.
