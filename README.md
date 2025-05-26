@@ -77,13 +77,13 @@ I’ve developed a variety of **Android** and **PC games** using Unity—ranging
 
 <p align="left">
   <a href="https://steamcommunity.com/id/r3kt_69/" target="_blank">
-    <img src="https://img.shields.io/badge/Steam-r3kt__69-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge" />
+    <img src="https://img.shields.io/badge/steam-r3kt__69-000000?style=flat&logo=steam&logoColor=white" alt="Steam Badge" />
   </a>
   <a href="mailto:asifahmed9510@gmail.com">
-    <img src="https://img.shields.io/badge/Email-asifahmed9510@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+    <img src="https://img.shields.io/badge/email-asifahmed9510@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=61569442790530" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" />
+    <img src="https://img.shields.io/badge/facebook-profile-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook Badge" />
   </a>
 </p>
 
