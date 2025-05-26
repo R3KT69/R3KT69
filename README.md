@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there! I'm <span style="color:#a259ff">r3kt</span></h1>
+<h1 align="center">Hey there! I'm <span style="color:#a259ff">r3kt</span></h1>
 
 <p align="center">
   💻 Passionate Game Developer | 🎮 Software Engineer-in-Training | 🚀 Always Learning
@@ -6,15 +6,14 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-Hi! I'm **r3kt**, a self-driven developer delving into **game development** and **software engineering**.  
-With a strong foundation in **C++** and **SDL2**, I'm currently expanding my horizons into the world of **Unity**.  
-I love bringing ideas to life through code, crafting both small tools and full-fledged games.
+Hi! I'm **r3kt**, a self-driven developer trying to get into **game development** and **software engineering**.  
+I mainly code in **C++** and **C#**. I'm currently learning advanced features of **Unity**. 
 
 ---
 
-## 🧠 Skills & Tools
+## Skills & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/C++-Expert-purple?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Badge" />
@@ -22,45 +21,56 @@ I love bringing ideas to life through code, crafting both small tools and full-f
   <img src="https://img.shields.io/badge/Unity-Learning-orange?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Badge" />
 </p>
 
-- 🧠 **C++**: Building performant systems and game logic.
-- 🕹 **SDL2**: Designing low-level 2D/3D interactive applications.
-- 🛠 **Unity**: Learning to create immersive, cross-platform experiences.
+- **C++**: Building performant systems and game logic.
+- **SDL2**: Designing low-level 2D/3D interactive applications.
+- **Unity**: Learning to create immersive, cross-platform experiences.
 
 ---
 
-## 🛠️ Projects
+## 🔧 Projects & Experience
 
-### 🎮 SDL2 Projects
-I’ve worked on several interactive SDL2-based applications, ranging from small experiments to full-featured games.
+#### Unity Project Highlights:
 
-### 🧪 Unity Engine 
-🧪 Unity Engine
-I've developed a variety of Android and PC games using Unity, ranging from first-person shooters to third-person melee combat games and side-scrolling platformers.
+I’ve developed a variety of **Android** and **PC games** using Unity—ranging from FPS and side-scrollers to TPS melee combat and car simulators.
 
-⚙️ My Unity Highlights:
-🎯 FPS & TPS Development:
-Built responsive character controllers with realistic shooting mechanics, including recoil, aiming, and HUD systems.
+- **FPS & TPS Development**  
+  Designed responsive character controllers with **realistic shooting**, **recoil**, **ADS**, and fully-featured HUD systems.
 
-🧍‍♂️ Advanced Animation:
-Used Unity's Animation Rigging and Mecanim system to create procedural and hand-crafted character animations for immersive combat and traversal.
+- **Advanced Animation**  
+  Integrated **Animation Rigging** and **Mecanim** for dynamic, layered character animations and procedural IK.
 
-🧠 Pathfinding & AI:
-Implemented custom A* and waypoint-based pathfinding systems using Unity’s NavMesh and custom graph structures.
+- **AI & Pathfinding**  
+  Built custom **A\*** and **waypoint** navigation systems using Unity’s **NavMesh** and graph-based logic.
 
-🚗 Car & Vehicle Systems:
-Developed car controllers with physics-based driving mechanics and smooth camera handling.
+- **Vehicle Physics**  
+  Implemented smooth, physics-based car controllers with chase cameras and terrain alignment.
 
-🌍 Scene & Terrain Management:
-Created large-scale environments using Unity Terrain, and organized complex scenes with additive scene loading for performance.
+- **Scene & Terrain Management**  
+  Created **large open environments** using Unity Terrain, with support for **additive scene loading**.
 
-🛠️ ProBuilder + Level Design:
-Designed maps and environments using ProBuilder, enhancing iteration speed during prototyping.
+- **Level Design with ProBuilder**  
+  Designed environments rapidly using **ProBuilder**, enabling quick iteration during development.
 
-🕹️ Multiplayer & Networking (P2P):
-Working on peer-to-peer multiplayer mechanics with custom matchmaking, local hosting, and JSON-based player tracking.
+- **Multiplayer & Peer-to-Peer Networking**  
+  Developing **P2P matchmaking** with **custom ID systems**, **local hosting**, and **JSON-based player tracking**.
 
-📱 Platform Deployment:
-Experience publishing to Android and building optimized PC games.
+- **Platform Deployment**  
+  Built and optimized projects for **Android** and **Windows PC**, including support for **high-refresh-rate monitors**.
+
+---
+
+### SDL2 Projects
+
+- Developed multiple SDL2 applications focused on **2D gameplay**, **custom rendering**, **input systems**, and **native windowing**.
+- Implemented custom **event loops**, **game loops**, and **asset loaders** for learning-based and prototype projects.
+
+---
+
+### Windows App Development
+
+- Built native Windows apps using **windows.h**, **Win32 API**, and **SDL2**.
+- Created custom windows, event-driven UIs, and simple tools for internal use and game testing.
+
 ---
 
 ## 📫 Connect with Me
