@@ -27,7 +27,7 @@ I mainly code in **C++** and **C#**. I'm currently learning advanced features of
 
 ---
 
-## 🔧 Projects & Experience
+## >> Projects & Experience
 
 #### Unity Project Highlights:
 
@@ -59,14 +59,14 @@ I’ve developed a variety of **Android** and **PC games** using Unity—ranging
 
 ---
 
-### SDL2 Projects
+### >> SDL2 Projects
 
 - Developed multiple SDL2 applications focused on **2D gameplay**, **custom rendering**, **input systems**, and **native windowing**.
 - Implemented custom **event loops**, **game loops**, and **asset loaders** for learning-based and prototype projects.
 
 ---
 
-### Windows App Development
+### >> Windows App Development
 
 - Built native Windows apps using **windows.h**, **Win32 API**, and **SDL2**.
 - Created custom windows, event-driven UIs, and simple tools for internal use and game testing.
