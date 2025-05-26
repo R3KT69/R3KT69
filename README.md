@@ -33,9 +33,34 @@ I love bringing ideas to life through code, crafting both small tools and full-f
 ### 🎮 SDL2 Projects
 I’ve worked on several interactive SDL2-based applications, ranging from small experiments to full-featured games.
 
-### 🧪 Unity Engine Exploration
-Currently diving into Unity’s animation, physics, and scripting systems to develop more advanced, dynamic games.
+### 🧪 Unity Engine 
+🧪 Unity Engine
+I've developed a variety of Android and PC games using Unity, ranging from first-person shooters to third-person melee combat games and side-scrolling platformers.
 
+⚙️ My Unity Highlights:
+🎯 FPS & TPS Development:
+Built responsive character controllers with realistic shooting mechanics, including recoil, aiming, and HUD systems.
+
+🧍‍♂️ Advanced Animation:
+Used Unity's Animation Rigging and Mecanim system to create procedural and hand-crafted character animations for immersive combat and traversal.
+
+🧠 Pathfinding & AI:
+Implemented custom A* and waypoint-based pathfinding systems using Unity’s NavMesh and custom graph structures.
+
+🚗 Car & Vehicle Systems:
+Developed car controllers with physics-based driving mechanics and smooth camera handling.
+
+🌍 Scene & Terrain Management:
+Created large-scale environments using Unity Terrain, and organized complex scenes with additive scene loading for performance.
+
+🛠️ ProBuilder + Level Design:
+Designed maps and environments using ProBuilder, enhancing iteration speed during prototyping.
+
+🕹️ Multiplayer & Networking (P2P):
+Working on peer-to-peer multiplayer mechanics with custom matchmaking, local hosting, and JSON-based player tracking.
+
+📱 Platform Deployment:
+Experience publishing to Android and building optimized PC games.
 ---
 
 ## 📫 Connect with Me
