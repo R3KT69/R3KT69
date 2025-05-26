@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm <span style="color:#a259ff">r3kt</span></h1>
 
 <p align="center">
-  💻 Passionate Game Developer | 🎮 Software Engineer-in-Training | 🚀 Always Learning
+  Game Developer | Unity 
 </p>
 
 ---
@@ -16,9 +16,9 @@ I mainly code in **C++** and **C#**. I'm currently learning advanced features of
 ## Skills & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C++-Expert-purple?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Badge" />
+  <img src="https://img.shields.io/badge/C++-Intermediate-purple?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Badge" />
   <img src="https://img.shields.io/badge/SDL2-Advanced-blue?style=for-the-badge&logo=SDL&logoColor=white" alt="SDL2 Badge" />
-  <img src="https://img.shields.io/badge/Unity-Learning-orange?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Badge" />
+  <img src="https://img.shields.io/badge/Unity-Advanced-orange?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Badge" />
 </p>
 
 - **C++**: Building performant systems and game logic.
