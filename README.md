@@ -55,7 +55,7 @@ I’ve developed a variety of **Android** and **PC games** using Unity—ranging
   Developing **P2P matchmaking** with **custom ID systems**, **local hosting**, and **JSON-based player tracking**.
 
 - **Platform Deployment**  
-  Built and optimized projects for **Android** and **Windows**.
+  Built and optimized projects for **Android**, **Windows** and even **WebGL(Website)** builds.
 
 ---
 
