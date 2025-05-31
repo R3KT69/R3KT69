@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm <span style="color:#a259ff">r3kt</span></h1>
+<h1 align="center">Hey there! I'm <span style="color:#a259ff">Asif Ahmed</span></h1>
 
 <p align="center">
   Game Developer | Unity 
@@ -8,7 +8,7 @@
 
 ## About Me
 
-Hi! I'm **r3kt**, a self-driven developer trying to get into **game development** and **software engineering**.  
+Hi! I'm **Asif Ahmed**, a self-driven developer trying to get into **game development** and **software engineering**.  
 I mainly code in **C++** and **C#**. I'm currently learning advanced features of **Unity**. 
 
 ---
