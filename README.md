@@ -16,7 +16,7 @@ I mainly code in **C** and **C#**. I'm currently learning advanced features of *
 ## Skills & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C#-Intermediate-purple?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C# Badge" />
+  <img src="https://img.shields.io/badge/Csharp-Intermediate-purple?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Csharp Badge" />
   <img src="https://img.shields.io/badge/SDL2-Advanced-blue?style=for-the-badge&logo=SDL&logoColor=white" alt="SDL2 Badge" />
   <img src="https://img.shields.io/badge/Unity-Advanced-orange?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Badge" />
 </p>
