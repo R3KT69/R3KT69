@@ -9,19 +9,19 @@
 ## About Me
 
 Hi! I'm **Asif Ahmed**, a self-driven developer trying to get into **game development** and **software engineering**.  
-I mainly code in **C++** and **C#**. I'm currently learning advanced features of **Unity**. 
+I mainly code in **C** and **C#**. I'm currently learning advanced features of **Unity**. 
 
 ---
 
 ## Skills & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C++-Intermediate-purple?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Badge" />
+  <img src="https://img.shields.io/badge/C#-Intermediate-purple?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C# Badge" />
   <img src="https://img.shields.io/badge/SDL2-Advanced-blue?style=for-the-badge&logo=SDL&logoColor=white" alt="SDL2 Badge" />
   <img src="https://img.shields.io/badge/Unity-Advanced-orange?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Badge" />
 </p>
 
-- **C++**: Building performant systems and game logic.
+- **C#**: Building performant systems and game logic.
 - **SDL2**: Designing low-level 2D/3D interactive applications.
 - **Unity**: Learning to create immersive, cross-platform experiences.
 
