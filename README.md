@@ -1,9 +1,15 @@
 <div align="center">
 
-  <!-- Dynamic SVG Header (Renders like a custom web hero banner) -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=160&section=header&text=ASIF%20AHMED&fontSize=56&fontColor=00ff00&fontAlignY=42&desc=[ GAME%20DEVELOPER%20%20//%20%20MULTIPLAYER ]%20&%20GRAPHICS%20PROGRAMMER&descSize=15&descColor=a259ff&descAlignY=72" width="100%" alt="Asif Ahmed Banner" />
+  <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 14px; padding: 36px 20px; text-align: center; font-family: 'Segoe UI', system-ui, sans-serif;">
+  <h1 style="color: #00ff00; font-size: 52px; font-weight: 800; letter-spacing: 3px; margin: 0 0 14px 0;">
+    ASIF AHMED
+  </h1>
+  <p style="color: #a259ff; font-family: 'Fira Code', Consolas, monospace; font-size: 15px; font-weight: 600; letter-spacing: 1.5px; margin: 0;">
+    [ GAME DEVELOPER &nbsp;//&nbsp; MULTIPLAYER ] &amp; GRAPHICS PROGRAMMER
+  </p>
+</div>
 
- 
+ <br>
   
 </div>
 <div style="background-color: #000000; color: #00ff41; font-family: 'Fira Code', 'Consolas', monospace; padding: 20px 24px; border-radius: 6px; border: 1px solid #1f2937; line-height: 1.6; white-space: pre; overflow-x: auto;">Primary_Role  : Game Developer &amp; Multiplayer Systems Engineer
