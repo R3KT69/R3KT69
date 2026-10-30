@@ -14,14 +14,14 @@
 </div>
 
 
-<pre>
-${\color{#00ff41}\texttt{Primary\_Role\ \ :\ Game\ Developer\ \&\ Multiplayer\ Systems\ Engineer}}$
-${\color{#00ff41}\texttt{Language\ \ \ \ \ \ :\ [\ C\#,\ C,\ HLSL\ /\ CG\ ]}}$
-${\color{#00ff41}\texttt{Engines/APIs\ \ :\ [\ Unity,\ PurrNet,\ SDL2,\ Win32\ API\ ]}}$
-${\color{#00ff41}\texttt{3D\_Pipeline\ \ \ :\ [\ Blender,\ ProBuilder\ ]}}$
-${\color{#00ff41}\texttt{Build\_Targets\ :\ [\ Windows\ (x64),\ Android\ (ARM64),\ WebGL\ ]}}$
-${\color{#00ff41}\texttt{Contact\ \ \ \ \ \ \ :\ asifahmed9510@gmail.com}}$
-</pre>
+```diff
++ Primary_Role  : Game Developer & Multiplayer Systems Engineer
++ Language      : [ C#, C, HLSL / CG ]
++ Engines/APIs  : [ Unity, PurrNet, SDL2, Win32 API ]
++ 3D_Pipeline   : [ Blender, ProBuilder ]
++ Build_Targets : [ Windows (x64), Android (ARM64), WebGL ]
++ Contact       : asifahmed9510@gmail.com
+```
 
 
 
