@@ -12,14 +12,16 @@
  <br>
   
 </div>
-<div style="background-color: #000000; color: #00ff41; font-family: 'Fira Code', 'Consolas', monospace; padding: 20px 24px; border-radius: 6px; border: 1px solid #1f2937; line-height: 1.6; white-space: pre; overflow-x: auto;">Primary_Role  : Game Developer &amp; Multiplayer Systems Engineer
-Language      : [ C#, C, HLSL / CG ]
-Engines/APIs  : [ Unity, PurrNet, SDL2, Win32 API ]
-3D_Pipeline   : [ Blender, ProBuilder ]
-Build_Targets : [ Windows (x64), Android (ARM64), WebGL ]
-Contact: asifahmed9510@gmail.com
-</div>
-<br>
+
+
+<pre>
+${\color{#00ff41}\texttt{Primary\_Role\ \ :\ Game\ Developer\ \&\ Multiplayer\ Systems\ Engineer}}$
+${\color{#00ff41}\texttt{Language\ \ \ \ \ \ :\ [\ C\#,\ C,\ HLSL\ /\ CG\ ]}}$
+${\color{#00ff41}\texttt{Engines/APIs\ \ :\ [\ Unity,\ PurrNet,\ SDL2,\ Win32\ API\ ]}}$
+${\color{#00ff41}\texttt{3D\_Pipeline\ \ \ :\ [\ Blender,\ ProBuilder\ ]}}$
+${\color{#00ff41}\texttt{Build\_Targets\ :\ [\ Windows\ (x64),\ Android\ (ARM64),\ WebGL\ ]}}$
+${\color{#00ff41}\texttt{Contact\ \ \ \ \ \ \ :\ asifahmed9510@gmail.com}}$
+</pre>
 
 
 
